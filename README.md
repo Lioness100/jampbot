@@ -1,3 +1,5 @@
+# This bot is shit and was made when I was still learning Javascript. Please direct your attention to [v2](https://github.com/Lioness100/Jampbot-2) instead
+
 ![](https://media.discordapp.net/attachments/722174152357707776/724385495378821170/20200416_063556_0000.png?width=1023&height=256)
 
 [![Discord](https://img.shields.io/discord/699220238801174558.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/STbuRN)
