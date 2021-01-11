@@ -1,4 +1,4 @@
-# This bot is shit and was made when I was still learning Javascript. Please direct your attention to [v2](https://github.com/Lioness100/Jampbot-2) instead
+# This bot is shit and was made when I was still learning Javascript. Please direct your attention to [v2](https://github.com/Lioness100/Jampbot-v2) instead
 
 ![](https://media.discordapp.net/attachments/722174152357707776/724385495378821170/20200416_063556_0000.png?width=1023&height=256)
 
